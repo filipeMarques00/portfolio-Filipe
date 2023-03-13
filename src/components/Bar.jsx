@@ -6,11 +6,25 @@ import SocialNetworks from "./SocialNetworks";
 const Bar = () => {
   return (
     <aside id="sidebar">
-        <img src={Avatar} alt="Filipe" />
-        <p className="title">Desenvolvedor</p>
-        <SocialNetworks/>
+    <div class="container">
+      <div class="box">
+        <div class="imgBox">
+          <img
+            src={Avatar}
+            alt=""
+          />
+        </div>
+        <div class="content">
+          <h2>
+            Filipe<br />
+            <span>Desenvolvedor</span>
+          </h2>
+        </div>
+      </div>
+      <SocialNetworks/>
         <InformationContainer/>
         <a href="https://drive.google.com/drive/folders/1B3MiCKxf-Z_SzWORjzfCpzAYHPlTVJgi?usp=sharing" className="btn">Download Curriculo</a>
+    </div>
     </aside>
   );
 };
