@@ -23,7 +23,7 @@ const SocialNetworks = () => {
       ))}
 
       {socialgitHub.map((network) => (
-        <a href="https://github.com/filipeMarques99/portfolio" target={"_blank"} className="social-btn" id={network.name} key={network.name}>
+        <a href="https://github.com/filipeMarques00" target={"_blank"} className="social-btn" id={network.name} key={network.name}>
           {network.icon}
         </a>
       ))}
