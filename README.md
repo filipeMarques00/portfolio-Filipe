@@ -10,10 +10,9 @@ Com o intuito de adquirir novas técnicas de desenvolvimento, realizei a integra
 
 ## 💻 Tecnologias utilizadas
 
-- Api: themoviedb
 - React
-- CSS
-- JavaScript
+- SASS
+
  ---------------------------
 
 <p align="center">
