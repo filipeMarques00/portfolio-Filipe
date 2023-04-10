@@ -1,6 +1,6 @@
 ![Portfolio](https://github.com/filipeMarques00/portfolio-Filipe/blob/main/Portfolio.gif) 
 
->🎬 Portfólio utilizando REACT + SASS
+Portfólio utilizando REACT + SASS
 
 ## ✏️ Sobre o projeto
 
@@ -10,8 +10,10 @@ Com o intuito de adquirir novas técnicas de desenvolvimento, realizei a integra
 
 ## 💻 Tecnologias utilizadas
 
+- Api: themoviedb
 - React
-- SASS 
+- CSS
+- JavaScript
  ---------------------------
 
 <p align="center">
