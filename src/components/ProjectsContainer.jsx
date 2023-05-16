@@ -7,7 +7,7 @@ const ProjectsContainer = () => {
           desenvolvimento. Portanto, no botão abaixo é possível visualizar projetos onde foram utilizadas
           diferentes linguagens de programação, com o intuito de adquirir práticas de desenvolvimento fullstack.
         </p>
-        <a href="#" className="btn">
+        <a href="https://github.com/filipeMarques00" className="btn">
           Ver Projetos
         </a>
       </section>

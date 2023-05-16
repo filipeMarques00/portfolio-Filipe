@@ -5,6 +5,7 @@ import {
   DiMysql,
   DiReact,
   DiJava,
+  DiJavascript,
 } from "react-icons/di";
 
 import "../styles/components/technologiescontainer.sass";
@@ -30,8 +31,9 @@ const react = [
 ];
 
 const java = [
-  { id: "java", name: "Java", icon: <DiJava/> },
+  { id: "javascript", name: "JavaScript", icon: <DiJavascript/> },
 ];
+
 
 
 const TechnologiesContainer = () => {
